@@ -28,7 +28,7 @@ let movies = [
     director: "Peter Jackson",
     metascore: 92,
     stars: ["Elijah Wood", "Ian McKellen", "Orlando Bloom"]
-  },
+  }, 
   {
     id: 3,
     title: "Terminator 2: Judgement Day",
